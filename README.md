@@ -1,5 +1,5 @@
 # MirrorSite
-### Este script en python realiza un clonación del código fuente de cualquier sitio web, tan solo pasando la url. HAGO DESCARGO DE RESPONSAABILIDADES, cada cual lo usa bajo su responsabbilidad  
+### Este script en python realiza un clonación del código fuente de cualquier sitio web, tan solo pasando la url. HAGO DESCARGO DE RESPONSAABILIDADES, cada cual lo usa bajo su responsabilidad  
 
 ------------
 
