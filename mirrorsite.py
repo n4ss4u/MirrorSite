@@ -40,5 +40,5 @@ if "response" in locals() and response.status_code == 200:
 	file.write(str(response.text))
 	file.close()
 
-	print("\n[!] El sitio clonado se guardó como: " + name_save_file + ".index")
+	print(f.RED + "\n[!] El sitio clonado se guardó como: " + name_save_file + ".index" + Style.RESET_ALL)
 
