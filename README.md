@@ -18,6 +18,7 @@
 - git clone https://github.com/n4ss4u/MirrorSite
 - apt install python3
 - cd MirrorSite
+- chmod 777 mirrorsite.py
 - pip install -r requirements.txt
 - python3 mirrorsite.py
 
