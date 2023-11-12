@@ -3,6 +3,10 @@
 
 ------------
 
+# Imagen
+![No pudo cargar la imagen...](https://github.com/n4ss4u/MirrorSite/blob/main/Screenshot-2023-11-11-20-50-49.png)
+
+------------
 
 # SO donde ha sido probada
 - Termux
