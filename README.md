@@ -12,7 +12,7 @@
 - Termux
 - Ubutu
 - Kali
-
+- Windows 10
 ------------
 
 
