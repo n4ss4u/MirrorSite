@@ -9,7 +9,7 @@ except:
 	os.system("cls")
 	
 # BANNER 
-print(f.YELLOW + "┌──────────────────o───────────────────┐\n│" + f.RED + "           Creador: " + f.BLUE + "n4ss4u            " + f.YELLOW + "│\n│" + f.RED + "          Script: " + f.BLUE + "MirrorSite          " + f.YELLOW + "│\n│" + f.RED +  "         Version: " + f.BLUE + " v0.1 - 2023        "  + f.YELLOW + "│")
+print(f.YELLOW + "┌──────────────────o───────────────────┐\n│" + f.RED + "           Creador: " + f.BLUE + "n4ss4u            " + f.YELLOW + "│\n│" + f.RED + "          Script: " + f.BLUE + "MirrorSite          " + f.YELLOW + "│\n│" + f.RED +  "         Version: " + f.BLUE + "v0.1 - 2023        "  + f.YELLOW + "│")
 print(f.YELLOW + "├──────────────────o───────────────────┤\n│" + f.RED + "     Introduzca la URL del sitio      " + f.YELLOW + "│\n│" + f.RED + "   Ejemplo: https://www.ejemplo.com   " + f.YELLOW + "│\n├──────────────────────────────────────┘")
 
 website = input(f.YELLOW + "│\n└─[" + f.RED + "MirrorSite" + f.YELLOW +"]>> " + Style.RESET_ALL)
