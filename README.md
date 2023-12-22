@@ -27,3 +27,6 @@
 - python3 mirrorsite.py
 
 ------------
+
+# Comunidad de Telegram
+https://t.me/agoralatam
