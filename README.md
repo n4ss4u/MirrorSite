@@ -9,7 +9,7 @@
 ------------
 
 # Imagen
-Ejemplo de uso: (SOLO DEBE PASARLE LA URL DEL SITIO A CLONAR) https://example.com
+Ejemplo de uso: (SOLO DEBE PASARLE LA URL DEL SITIO A CLONAR) mirrorsite.py https://example.com
 ![No pudo cargar la imagen...](https://github.com/n4ss4u/MirrorSite/blob/main/Screenshot-2023-11-11-20-50-49.png)
 
 ------------
