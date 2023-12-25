@@ -1,6 +1,11 @@
 # MirrorSite
-### Este script en python realiza un clonación del código fuente de cualquier sitio web, tan solo pasando la url. HAGO DESCARGO DE RESPONSAABILIDADES, cada cual lo usa bajo su responsabilidad  
+### MirrorSite es un script diseñado con fines educativos que permite a los usuarios explorar y aprender sobre el diseño y la estructura de un sitio web al clonar su código fuente. Este script se crea con la intención de fomentar la educación y la comprensión de los principios básicos de desarrollo web, brindando a los usuarios la oportunidad de analizar y estudiar el código de sitios web específicos con fines didácticos.
 
+------------
+
+# Características principales
+- Admite la clonación de sitios web que utilizan conexiones seguras mediante HTTPS, promoviendo prácticas de desarrollo seguras.
+- Realiza la clonación del código fuente de un sitio web de manera no invasiva, respetando las políticas de uso aceptable y evitando cualquier actividad que pueda afectar negativamente al sitio.
 ------------
 
 # Imagen
@@ -11,8 +16,9 @@ Ejemplo de uso: (SOLO DEBE PASARLE LA URL DEL SITIO A CLONAR) https://example.co
 
 # SO donde ha sido probada
 - Termux
-- Ubutu
+- Ubuntu
 - Kali
+- Debian
 - Windows 10
 ------------
 
